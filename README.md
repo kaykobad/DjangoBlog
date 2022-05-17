@@ -1,2 +1,2 @@
-# kaykobadreza
-My First Django Website
+# Django Blog
+Django personal blog and course selling website
